@@ -1,0 +1,16 @@
+{
+  "name": "adofai-gg-og-image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/yup": "^0.29.13",
+    "@vercel/node": "^1.12.1",
+    "prettier": "^2.4.1",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "canvas": "2.6.1",
+    "yup": "^0.32.9"
+  }
+}
