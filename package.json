@@ -12,5 +12,8 @@
   "dependencies": {
     "canvas": "2.6.1",
     "yup": "^0.32.9"
+  },
+  "scripts": {
+    "postinstall": "./scripts/install.sh"
   }
 }
